@@ -4,11 +4,15 @@
     "oncran": true
   },
   {
-    "package": "rsmatrix",
-    "oncran": true
+    "package": "piar",
+    "oncran": false
   },
   {
     "package": "sps",
+    "oncran": true
+  },
+  {
+    "package": "rsmatrix",
     "oncran": true
   }
 ]
