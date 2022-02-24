@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gpindex",
+    "oncran": true
+  },
+  {
+    "package": "rsmatrix",
+    "oncran": true
+  },
+  {
+    "package": "sps",
+    "oncran": true
+  }
+]

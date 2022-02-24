@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gpindex"]
+	path = gpindex
+	url = https://github.com/marberts/gpindex
+	shallow = true
+	registered = true
+[submodule "rsmatrix"]
+	path = rsmatrix
+	url = https://github.com/marberts/rsmatrix
+	shallow = true
+	registered = true
+[submodule "sps"]
+	path = sps
+	url = https://github.com/marberts/sps
+	shallow = true
+	registered = true
