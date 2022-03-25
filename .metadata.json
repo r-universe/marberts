@@ -14,5 +14,8 @@
   {
     "package": "rsmatrix",
     "oncran": true
+  },
+  {
+    "package": "ymq"
   }
 ]

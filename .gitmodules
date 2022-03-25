@@ -23,3 +23,8 @@
 	url = https://github.com/marberts/rsmatrix
 	shallow = true
 	registered = true
+[submodule "ymq"]
+	path = ymq
+	url = https://github.com/marberts/ymq
+	shallow = true
+	registered = true
