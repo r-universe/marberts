@@ -5,7 +5,7 @@
   },
   {
     "package": "piar",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "sps",
