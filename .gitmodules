@@ -8,12 +8,12 @@
 [submodule "piar"]
 	path = piar
 	url = https://github.com/marberts/piar
-[submodule "sps"]
-	path = sps
-	url = https://github.com/marberts/sps
 [submodule "rsmatrix"]
 	path = rsmatrix
 	url = https://github.com/marberts/rsmatrix
+[submodule "sps"]
+	path = sps
+	url = https://github.com/marberts/sps
 [submodule "ymq"]
 	path = ymq
 	url = https://github.com/marberts/ymq
