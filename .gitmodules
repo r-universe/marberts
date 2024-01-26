@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/marberts/universe
+	url = https://github.com/marberts/marberts.r-universe.dev
 	branch = HEAD
 [submodule "gpindex"]
 	path = gpindex
