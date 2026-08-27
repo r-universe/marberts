@@ -13,7 +13,7 @@
 	url = https://github.com/marberts/rsmatrix
 [submodule "sps"]
 	path = sps
-	url = https://github.com/marberts/sps
+	url = https://codeberg.org/marberts/sps
 [submodule "ymq"]
 	path = ymq
 	url = https://github.com/marberts/ymq
