@@ -10,7 +10,7 @@
 	url = https://github.com/marberts/piar
 [submodule "rsmatrix"]
 	path = rsmatrix
-	url = https://github.com/marberts/rsmatrix
+	url = https://codeberg.org/marberts/rsmatrix
 [submodule "sps"]
 	path = sps
 	url = https://codeberg.org/marberts/sps
