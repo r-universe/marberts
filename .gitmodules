@@ -7,7 +7,7 @@
 	url = https://github.com/marberts/gpindex
 [submodule "piar"]
 	path = piar
-	url = https://github.com/marberts/piar
+	url = https://codeberg.org/marberts/piar
 [submodule "rsmatrix"]
 	path = rsmatrix
 	url = https://codeberg.org/marberts/rsmatrix
